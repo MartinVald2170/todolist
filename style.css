@@ -82,6 +82,11 @@ h1 {
 	font-size: 1.4rem;
 }
 
+.card-body{
+background-color: aquamarine;
+padding-bottom: 15px;
+}
+
 .item{
 	padding: 0.5rem;
 	border-bottom: 4px solid #fff;
@@ -95,6 +100,7 @@ h1 {
 	color: #fff;
 	font-size: 1.4rem;
 	width: 245px;
+	padding: 10px;
 }
 
 .edit{
